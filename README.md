@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zukatooooo.
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python, HTML and CSS.
+- 👀 I’m interested in.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
