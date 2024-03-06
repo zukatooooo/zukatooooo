@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zukatooooo.
+- 👋 Hi, I’m @Zuka Absandze.
 
 <!---
 zukatooooo/zukatooooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
